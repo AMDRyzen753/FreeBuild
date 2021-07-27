@@ -1,0 +1,11 @@
+name: FreeBuild
+version: 1.0
+main: de.amdryzen.Freebuild.FreeBuild
+commands:
+  home:
+  sethome:
+  tpa:
+  tpaccept:
+  tpdeny:
+  fly:
+  v:

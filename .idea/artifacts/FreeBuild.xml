@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FreeBuild">
+    <output-path>$PROJECT_DIR$/out/artifacts/FreeBuild</output-path>
+    <root id="archive" name="FreeBuild.jar">
+      <element id="module-output" name="FreeBuild" />
+    </root>
+  </artifact>
+</component>
